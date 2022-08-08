@@ -1,0 +1,11 @@
+C:\Users\theav\source\repos\SquaresCalculatorApp\bin\Debug\SquaresCalculatorApp.exe.config
+C:\Users\theav\source\repos\SquaresCalculatorApp\bin\Debug\SquaresCalculatorApp.exe
+C:\Users\theav\source\repos\SquaresCalculatorApp\bin\Debug\SquaresCalculatorApp.pdb
+C:\Users\theav\source\repos\SquaresCalculatorApp\obj\Debug\SquaresCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\SquaresCalculatorApp\obj\Debug\SquaresCalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\SquaresCalculatorApp\obj\Debug\SquaresCalculatorApp.Form1.resources
+C:\Users\theav\source\repos\SquaresCalculatorApp\obj\Debug\SquaresCalculatorApp.Properties.Resources.resources
+C:\Users\theav\source\repos\SquaresCalculatorApp\obj\Debug\SquaresCalculatorApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\SquaresCalculatorApp\obj\Debug\SquaresCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\SquaresCalculatorApp\obj\Debug\SquaresCalculatorApp.exe
+C:\Users\theav\source\repos\SquaresCalculatorApp\obj\Debug\SquaresCalculatorApp.pdb
